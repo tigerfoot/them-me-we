@@ -3,8 +3,8 @@ them+me=we
 
 source for the talk given at Scale13x / openSUSE mini-summit
 
-See it online 
-http://geeko.ioda.net/presentation/them-me-we/them-me-we.html
+See it online
+http://geeko.ioda.net/presentations/them-me-we/them-me-we.html
 
 Presentation based on reveal.js
 [source on github](https://github.com/hakimel/reveal.js)
